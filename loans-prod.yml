@@ -5,7 +5,7 @@ loans:
   message: "Welcome to EazyBank loans related webhook hiphopman prod APIs "
   contactDetails:
     name: "Pelias Sudhir - Product Owner"
-    email: "pelias@eazybank.com"
+    email: "{cipher}655c85b96d2f7e82780805f2e295adf451eebbc949bf8affa6dc6c933182681bfbe8f330008084a64118c715127709c6"
   onCallSupport:
     - (723) 656-8709
     - (156) 342-0956
