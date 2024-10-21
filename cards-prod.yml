@@ -5,7 +5,7 @@ cards:
   message: "Welcome to EazyBank cards related webhook hiphopman prod APIs "
   contactDetails:
     name: "Sandra Harald - Product Owner"
-    email: "sandra@eazybank.com"
+    email: "{cipher}a99a9837bc28dec5e82103a7d7412de00a067e48bcdd3c6d97253acdd60e2f9f6232a5546bd7a65c46ff27f9cfb81cd4"
   onCallSupport:
     - (617) 432-2356
     - (936) 564-8721
